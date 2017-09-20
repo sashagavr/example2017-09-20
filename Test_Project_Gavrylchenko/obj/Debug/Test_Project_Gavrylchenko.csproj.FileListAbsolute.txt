@@ -1,1 +1,2 @@
 D:\Gavrylchenko\Test_Project_Gavrylchenko\Test_Project_Gavrylchenko\bin\Debug\Test_Project_Gavrylchenko.exe.config
+D:\Gavrylchenko\Developer1\example2017-09-20\Test_Project_Gavrylchenko\bin\Debug\Test_Project_Gavrylchenko.exe.config
